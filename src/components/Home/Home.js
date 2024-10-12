@@ -12,13 +12,13 @@ function Home() {
         className="home-section"
         id="home"
         style={{
-          height: "100vh", // Full viewport height
-          display: "flex", // Use flexbox
-          alignItems: "center", // Center content vertically
-          justifyContent: "center", // Center content horizontally
-          backgroundColor: "black", // Adjust according to your theme
-          color: "white", // Text color
-          position: "relative", // Positioning
+          height: "100vh", 
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          backgroundColor: "black",
+          color: "white",
+          position: "relative",
         }}
       >
         <Particle />
