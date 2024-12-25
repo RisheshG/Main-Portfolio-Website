@@ -67,11 +67,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={news_aggregator}
+              imgPath={e_commerce}
               isBlog={false}
-              title="News Aggregator"
-              description="A dynamic news aggregation component built with React.js and Axios, featuring Firebase authentication. This application allows users to browse news articles across various categories such as Technology, Sports, Business, and more. It supports real-time article fetching, a search feature for customized queries, and a modal view for detailed article information. Users can easily log out and switch categories to access the latest news updates seamlessly."
-              ghLink="https://github.com/RisheshG/News-Aggregator"
+              title="Clothing website"
+              description="Developed a dynamic e-commerce clothing website using React, Node.js, and MongoDB. The platform features a seamless shopping experience with user authentication, a responsive design, and intuitive navigation. Key functionalities include a cart system, secure checkout, and category-wise product organization. Styled for modern aesthetics, it ensures a visually appealing and user-friendly interface."
+              ghLink="https://github.com/RisheshG/Main-E-Commerce.git"
               demoLink="https://news-aggregator-tawny.vercel.app/"
             />
           </Col>
