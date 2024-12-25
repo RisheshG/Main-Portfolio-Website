@@ -6,7 +6,7 @@ import chat_app from "../../Assets/Projects/chat_app.png";
 import password_manager from "../../Assets/Projects/password_manager.png";
 import f1_website from "../../Assets/Projects/f1_website.png";
 import keepers_app from "../../Assets/Projects/keepers_app.png";
-import news_aggregator from "../../Assets/Projects/news_aggregator.png";
+import e_commerce from "../../Assets/Projects/e_commerce.png";
 import spam_checker from "../../Assets/Projects/spam_checker.png";
 
 function Projects() {
