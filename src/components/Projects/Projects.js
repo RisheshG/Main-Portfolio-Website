@@ -72,7 +72,7 @@ function Projects() {
               title="Clothing website"
               description="Developed a dynamic e-commerce clothing website using React, Node.js, and MongoDB. The platform features a seamless shopping experience with user authentication, a responsive design, and intuitive navigation. Key functionalities include a cart system, secure checkout, and category-wise product organization. Styled for modern aesthetics, it ensures a visually appealing and user-friendly interface."
               ghLink="https://github.com/RisheshG/Main-E-Commerce.git"
-              demoLink="https://news-aggregator-tawny.vercel.app/"
+              demoLink="https://main-e-commerce.vercel.app/"
             />
           </Col>
 
